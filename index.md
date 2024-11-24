@@ -20,7 +20,7 @@ Cada jugador ocupa un **rol específico** dentro del equipo. Aquí hay una tabla
 
 ## Campeones y estrategias
 
-Para aprender más sobre campeones específicos y estrategias avanzadas, visita nuestra [página de guías detalladas](https://miweb.com/guias-lol).
+Para aprender más sobre campeones específicos y estrategias avanzadas, visita esta web [página de guías detalladas](https://www.op.gg/).
 
 ---
 
