@@ -26,10 +26,8 @@ Para aprender más sobre campeones específicos y estrategias avanzadas, visita 
 
 ## Imagen destacada
 
-¡Aquí tienes una imagen de una épica batalla en la Grieta del Invocador!
+¡Aquí tienes una imagen del mapa en el que se suceden las batallas. La Grieta del Invocador!
 
-![Batalla épica en la Grieta del Invocador](https://cdn.example.com/imagen-batalla.jpg)
-
----
+![Batalla épica en la Grieta del Invocador](images/Summoners_Rift.jpg)
 
 Explora los distintos roles y prueba diferentes campeones para descubrir cuál se adapta mejor a tu estilo de juego. ¡Nos vemos en la Grieta del Invocador!
